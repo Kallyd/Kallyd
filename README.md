@@ -11,5 +11,5 @@
 
 Sou apaixonado por programação desde os meus 12 anos.
 <br>
-Hoje tenho 19 e estou tendo a chance de estar aprendendo programação
+Hoje tenho 19 anos e estou tendo a chance de estar aprendendo programação
 
