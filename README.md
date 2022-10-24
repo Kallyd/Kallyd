@@ -1,5 +1,6 @@
 ## Olá! Eu sou o João Victor Freitas Rodriguês 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvfr.py/)
+[![Linkedin] (https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/joão-victor-freitas-rodrigues-990b04227/)
 
 
 
