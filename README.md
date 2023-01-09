@@ -1,7 +1,7 @@
-## Olá! Eu sou o João Victor Freitas Rodriguês 🖐️
+## Hello, my name is João Victor Freitas Rodriguês 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvfr.py/)
 
-## Tecnologias que estou cursando dia a dia 
+## Technologies I'm studying day by day 
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -9,7 +9,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-Sou apaixonado por programação desde os meus 12 anos.
+I've been passionate about programming since I was 12.
 <br>
-Hoje tenho 19 anos e estou tendo a chance de estar aprendendo programação
+Today I'm 19 years old and I'm having the chance to be learning programming
 
